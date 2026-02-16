@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "https://www.xiqro.in/(.*)",
+      "destination": "https://xiqro.in/$1",
+      "permanent": true
+    }
+  ]
+}
